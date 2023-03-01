@@ -1,7 +1,12 @@
-# Hello There!
+//It’s the little things
 
-Is this thing on?
+-Final corner has been decorated
 
-**BOLD**
-
-__Underline__
+[Minor Changes]
+-Updated QVPens
+-Even more optimization attempts
+-Fixed changelog being gone
+-Redid some minor udon scripts
+-Changed mirror button
+-Added disbridge
+-Added more speaker models
