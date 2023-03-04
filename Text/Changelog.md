@@ -13,3 +13,4 @@
 -Added more speaker models
 -Replaced Avatar Image Reader with string loading
 -Changed water shader
+-Changelog now auto updates (Thanks for the help Cyanlaser!)
