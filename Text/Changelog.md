@@ -14,4 +14,4 @@
 -Replaced Avatar Image Reader with string loading
 -Changed water shader
 -Changelog now auto updates (Thanks for the help Cyanlaser!)
---PC USERS!! Use the text feedback to suggest things/report issues or send me a message on discord--
+--Send me a message on twitter or discord (Info to the left of this) to send me issus/suggestions. PC users can use the text feedback as well--
